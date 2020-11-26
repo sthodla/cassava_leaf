@@ -1,1 +1,4 @@
 data/
+!data/train.csv
+!data/val.csv
+!data/test.csv
